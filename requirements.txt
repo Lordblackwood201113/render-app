@@ -5,7 +5,7 @@ pygwalker
 python-dotenv
 qrcode
 reportlab
-streamlit
+streamlit == 1.25.0
 streamlit_authenticator
 streamlit_modal
 streamlit-aggrid
